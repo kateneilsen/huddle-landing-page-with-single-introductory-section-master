@@ -1,0 +1,17 @@
+/* font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif; */
+
+*{
+   box-sizing: border-box;
+   margin: 0;
+   padding: 0;
+   background-color: #684BB1;
+   background-image: url("./images/bg-mobile.svg");
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+header{
+    margin: 30px;
+}
+
